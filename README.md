@@ -12,7 +12,7 @@ A Bytes Club initiative to improve Competitive Programming Culture.
       Contains basic problems on how to read and manage data from a specific structure.
       Most of the problems does not require any Data Structure or Algorithm knowledge.
 
-      _**Preferred Language:** Shell, Python 3.x_
+      _**Preferred Language:** [Shell](https://www.thegeekstuff.com/2010/06/bash-array-tutorial/), Python 3.x_
 
       _**Due On:** 18-Dec-2017_
 
